@@ -51,4 +51,28 @@ For save on database, you use a method available in Value Objects
 
 <br>
 
+## Aggregates
+
+An aggregate may contains, Agregates, Entity and Value Objects
+
+All changes in aggregates are save atomicaly
+
+![image](https://user-images.githubusercontent.com/12099889/145573983-d76c8bd1-9133-42ad-8857-878117529f83.png)
+
+<br>
+
+![image](https://user-images.githubusercontent.com/12099889/145574004-3d57db47-8805-46fc-97dc-03db71c27a82.png)
+
+<br>
+
+![image](https://user-images.githubusercontent.com/12099889/145574741-b7031a21-ad8a-4c4a-adb3-b9457e5a4129.png)
+
+<br>
+
+![image](https://user-images.githubusercontent.com/12099889/145574795-079bec1b-3f96-4b22-a480-66b1bb2af757.png)
+
+
+
+
+
 
