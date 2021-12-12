@@ -79,6 +79,7 @@ Domain services is a domains rule with need consult an external service to apply
 
 Example, in Entity Customer, the atribute, hasAccount need consult the informations in another service, and then apply domain rule, hasAccount equals _true_ ou _false_
 
+Is Stateless
 <br>
 
 ![image](https://user-images.githubusercontent.com/12099889/145730791-db29c2f8-7be5-43dd-b45c-2ae48a7d1411.png)
@@ -86,6 +87,11 @@ Example, in Entity Customer, the atribute, hasAccount need consult the informati
 <br>
 
 ![image](https://user-images.githubusercontent.com/12099889/145730793-4e1c8b60-7658-476c-80ae-a4fd7551cf67.png)
+
+<br>
+
+![image](https://user-images.githubusercontent.com/12099889/145730822-2cd546e3-a58e-4dcd-9203-acc1dff5e835.png)
+
 
 
 
