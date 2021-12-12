@@ -71,6 +71,22 @@ All changes in aggregates are save atomicaly
 
 ![image](https://user-images.githubusercontent.com/12099889/145574795-079bec1b-3f96-4b22-a480-66b1bb2af757.png)
 
+<br>
+
+## Domain Services
+
+Domain services is a domains rule with need consult an external service to apply a domain rule.
+
+Example, in Entity Customer, the atribute, hasAccount need consult the informations in another service, and then apply domain rule, hasAccount equals _true_ ou _false_
+
+<br>
+
+![image](https://user-images.githubusercontent.com/12099889/145730791-db29c2f8-7be5-43dd-b45c-2ae48a7d1411.png)
+
+<br>
+
+![image](https://user-images.githubusercontent.com/12099889/145730793-4e1c8b60-7658-476c-80ae-a4fd7551cf67.png)
+
 
 
 
