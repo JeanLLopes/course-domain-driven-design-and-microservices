@@ -8,7 +8,7 @@ _Reference book is Event Storming_
 ![image](https://user-images.githubusercontent.com/12099889/145877912-288caab8-f68c-4665-a80a-ce59b5ba0c03.png)
 
 
-Normally is used a [Miro](https://miro.com/) or [Mural](https://www.mural.co/)
+Normally is used a [Miro](https://miro.com/), [Jamboard](jamboard.google.com) or [Mural](https://www.mural.co/)
 
 ![image](https://user-images.githubusercontent.com/12099889/145877466-6f7d0093-5354-4f61-befe-ca4425eedd33.png)
 
