@@ -1,2 +1,3 @@
-dsa
+### Database Performance
 
+Bottleneck = Gargalo
