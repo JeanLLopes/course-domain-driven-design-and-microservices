@@ -1,6 +1,9 @@
 ### Data management Patterns
 
-**SOA**: Services Oriented Architecture, In SOA, services use protocols that describe how they pass and parse messages using description metadata.
+**SOA**: Services Oriented Architecture, In SOA, services use protocols that describe how they pass and parse messages using description metadata. SOA not is a microservice, this is a another architecture basead in services, not in microservices, usually is used a BPM to identify a input and communications betwheen all services
+- Generally is a legado parttern
+- Generally is a big services that englobes any resposabilitys
+
 
 Not use a separate squemas if you can use a differente database, because:
 - If a database are unavailable all squemas is anavailable
