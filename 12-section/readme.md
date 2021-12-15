@@ -1,1 +1,3 @@
 ### Managing Data Integrity
+
+Designer for failure: you can have a failure points in all interfaces, Database, Message Broker, Microsservice, ...
