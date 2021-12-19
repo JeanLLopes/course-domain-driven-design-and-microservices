@@ -19,8 +19,7 @@ O teste de integração é difícil porque todos os serviços devem estar em exe
 ## **Orquestração**
 A orquestração é uma maneira de coordenar as coordenadas em que um controlador centralizado informa aos participantes quais transações locais executar. O orquestrador de orquestrador trata todas as transações e informa aos participantes qual operação executar com base em eventos. O orquestrador executa solicitações, armazena e interpreta os estados de cada tarefa e lida com a recuperação de falha com transações de compensação.
 
-**
-Benefícios**
+**Benefícios**
 Bom para fluxos de trabalho complexos que envolvem muitos participantes ou novos participantes adicionados ao longo do tempo.
 Adequado quando há controle sobre cada participante no processo e controle sobre o fluxo de atividades.
 Não introduz dependências cíclicas, pois o orquestrador depende dos participantes do programa.
