@@ -33,3 +33,11 @@ When a consumer exceeds particion quantity:
 - Kafka not use a concepts Exnchage, Bind, Queues
 - Kafka by default guarantee a message orders (benefies to use a offset kafka), consumer receive messages in the same order has been published, AMQP have a any consumer to a same queue, this not guarantee a messages orders
 
+<br>
+
+**When use Kafka or AMQP**
+- Kafka is recomended when you have a big number of messages by second, for example 50K per second, 
+- kakfka have a unlimited scalability because use a Topic - Particion
+- Kafka is recomended when you need a analytics a events, using a Log Aggregation or Stream (logs in real time)
+- Kafka have a ordered messages to reprocessing in a specific consumer
+
